@@ -1,0 +1,11 @@
+.popup {
+    width: 400px;
+    height: 500px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .popup input {
+    margin-bottom: 10px;
+  }
